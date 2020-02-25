@@ -1,0 +1,132 @@
+.img{
+    border-radius:15px;
+    transition: 0.7s;
+    top:1%;
+    position:relative;
+    left:10%;
+}
+.img:hover{
+    box-shadow: 2px 2px 6px black;
+}
+/*img:hover{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}*/
+a:hover{
+    color: #566963;
+    font-size: 50px;
+    text-shadow: 1px 2px 5px black;
+}
+.Email{
+    display: inline;
+    color: black;
+}
+
+hr{
+    border: dashed;
+    width: 50%;
+    margin: 100px auto;
+    color: lightgrey;
+    border-bottom: none;
+}
+body{
+    text-align: center;
+    background-color:rgb(74, 216, 241);
+    font-family:bookman;
+    font-size: 250%;
+    border: 3px dashed rgb(23, 24, 24);
+    padding: 10px;
+}
+.Bottom-Cloud{
+    position: relative;
+    right: 400px;
+}
+.Top-Cloud{
+    padding-top: 180px;
+    padding-right: 200px;
+}
+.copy{
+    color: teal;
+    font-size:0.75em;
+    padding: 20px 0px 0px 0px;
+}
+h1{
+    height: auto;
+    width:auto;
+    font-family:bookman;
+    color:rgb(250, 92, 92);
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(255, 57, 57);}
+ h2{
+        font-family:bookman;
+        color:rgb(255, 174, 0);}
+ a{
+            font-family: 'Dancing Script', cursive;
+            color: #66BFBF;
+            transition: 0.3s;
+        }
+            td{
+                border: 2px solid black;
+                background-color: cadetblue;
+            }
+            th{
+                height:50px;
+                width:50px
+                border: 2px solid black;
+                background-color: cadetblue;
+            }
+
+.myButton {
+	background-color:rgb(226, 139, 197);
+	border-radius:10px;
+	border:none;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	font-style:italic;
+	padding:10px 8px;
+	text-decoration:none;
+    text-shadow:-2px 2px 2px lightgray;
+    height: 60px;
+    width: 150px;
+    transition: 0.7s;
+}
+.myButton:hover {
+    color:solid black;
+    background-color:lightpink;
+    height:100px;
+    width: 300px;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+table.tb{
+    align:center;
+    top:120%;
+    left:25%;
+}
+td,th{
+    border-radius: 10px;
+    background-color: rgb(215, 241, 255);
+    font-family: bookman;
+    padding: 9px;
+    box-shadow: 2px 2px 6px black;
+    opacity: 70%;
+    transition: 0.3s;
+}
+td:hover{
+    background-color:white;
+    padding:12px ;
+}
+table{
+    position: relative;
+    left:0%;
+}
+
+
